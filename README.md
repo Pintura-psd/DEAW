@@ -6,5 +6,5 @@ Haciendo algo para el commit.
 
 |**Nombre**| **GITHUB**|
 |---|---|
-| Eric Montiel López | [GitHub] (github.com/Kybldo)|
-| Aida León | [GitHub] (github.com/AidaLeon)
+| Eric Montiel López | [GitHub](github.com/Kybldo)|
+| Aida León | [GitHub](github.com/AidaLeon)|
